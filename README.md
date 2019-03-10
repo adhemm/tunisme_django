@@ -7,4 +7,4 @@ Web app based Something ;)
 
 
 ### PS:
-Static and Templates folders are Missing Contact Me if you want them , why we faced some problems with git soon we will solve the issues
+Static and Templates folders are Missing Contact Me if you want them , you're asking why?. We faced some problems with git soon we will solve the issues
